@@ -5,7 +5,7 @@
 
 |  个人博客   | 邮箱  |微信 |
 |  ----  | ----  | --- |
-| <https://blog.hal.wang> | <hi@hal.wang>|hbrwang|
+| <https://blog.hubery.wang> | <hi@hal.wang>|hbrwang|
 
 
 ### Github Stats
